@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    background: linear-gradient( #808080 10%, #FFA500 100%);
+}
+
+img{
+  width:150;
+  height:100;
+    border-radius: 50%;
+    
+}
+
+#myname{
+   font-family: 'Courgette', cursive;
+}
+
+#welcome{
+     padding:70px;
+    text-align:center:
+}
+h1{
+  
+  font-size:18px;
+}
+p{
+  font-size:18px;
+  color:darkred;
+    
+}
+h2{
+  font-size:20px;
+  color:#003487;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width:70px;
+    margin:8px auto;
+}
+#bio{
+    padding:20px;
+    font-size:42;
+    background:none;
+}
+
+
+.menu{
+   list-style: none;
+    font-family:cursive;
+   float:right;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+}
+
+.menu{
+    color:black;
+}
+
